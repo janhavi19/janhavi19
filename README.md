@@ -24,34 +24,34 @@ I’m a Machine Learning Engineer and AI Researcher based in Germany 🇩🇪, w
 ## Projects
 
 ###  Multilingual Translation System (2024–2025)
-    - Built a domain-specific translation platform by fine-tuning LLMs using LoRA (Low-Rank Adaptation).
-    - Designed full data pipelines and deployed the system as a RESTful service using Azure Functions.
-    - **Tech:** PyTorch, Hugging Face, AWS, SQL, Azure, Python
+- Built a domain-specific translation platform by fine-tuning LLMs using LoRA (Low-Rank Adaptation).
+- Designed full data pipelines and deployed the system as a RESTful service using Azure Functions.
+- **Tech:** PyTorch, Hugging Face, AWS, SQL, Azure, Python
 
 ### Marine Sonar Object Detection
-   - Developed end-to-end AI pipelines for sonar data using U-Net and GANs for data augmentation.
-   - Integrated LiDAR + camera data for a real-time lane-following robot with obstacle avoidance.
-   - **Tech:** PyTorch, OpenCV, GANs, Docker, C++
+- Developed end-to-end AI pipelines for sonar data using U-Net and GANs for data augmentation.
+- Integrated LiDAR + camera data for a real-time lane-following robot with obstacle avoidance.
+- **Tech:** PyTorch, OpenCV, GANs, Docker, C++
 
 ### Sonar-Based Object Detection with GANs
-    Built a real-time sonar imaging system for object detection in marine environments.
+Built a real-time sonar imaging system for object detection in marine environments.
 
-  - **Leveraged Generative Adversarial Networks (GANs)** to synthesise and augment sonar imaging data, enhancing training diversity and robustness.
-  - **Engineered an end-to-end AI pipeline**: from raw sensor acquisition to real-time inference for sonar-based object detection.
-  - Designed modular components for processing sonar signals and integrated them with LiDAR and camera sensors for a multi-modal robotic system.
+- **Leveraged Generative Adversarial Networks (GANs)** to synthesise and augment sonar imaging data, enhancing training diversity and robustness.
+- **Engineered an end-to-end AI pipeline**: from raw sensor acquisition to real-time inference for sonar-based object detection.
+- Designed modular components for processing sonar signals and integrated them with LiDAR and camera sensors for a multi-modal robotic system.
 
-  **Impact:** Improved detection performance in safety-critical marine environments with limited training data.
+**Impact:** Improved detection performance in safety-critical marine environments with limited training data.
 
 ###  Lane-Following Robot with LiDAR-Camera Fusion
-     Developed an autonomous lane-following robot using a TurtleBot platform, combining sensor fusion and classical image processing.
+Developed an autonomous lane-following robot using a TurtleBot platform, combining sensor fusion and classical image processing.
 
-   - **Integrated LiDAR and camera data** on TurtleBot for accurate perception of the environment.
+- **Integrated LiDAR and camera data** on TurtleBot for accurate perception of the environment.
 
-   - **Implemented lane detection** using image processing techniques for visual guidance.
+- **Implemented lane detection** using image processing techniques for visual guidance.
 
-   - **Utilized LiDAR-based localization** to support real-time path planning and obstacle avoidance.
+- **Utilized LiDAR-based localization** to support real-time path planning and obstacle avoidance.
 
-   -  Combined ROS-based modules for sensor control, motion planning, and control loops.
+-  Combined ROS-based modules for sensor control, motion planning, and control loops.
 
  
 ### Domain-Generalization-Experiments
@@ -68,13 +68,13 @@ This project evaluates generalization of emotion classification in biosignals ac
 
 
 ### Feature-extraction-for-timeseries-classification
-    Applying machine learning to industrial settings often faces the challenge of limited and irregular sensor data. This project tackles automatic feature extraction for time-series data from real-time accelerometer signals monitoring the   
-    comfort-closing of car doors.
+Applying machine learning to industrial settings often faces the challenge of limited and irregular sensor data. This project tackles automatic feature extraction for time-series data from real-time accelerometer signals monitoring the   
+comfort-closing of car doors.
 
-   - Explores three approaches:  
-      1. Pre-trained models on signal data  
-      2. Frequency-time domain analysis  
-      3. Image-transformed signal features using CNNs
+- Explores three approaches:  
+  1. Pre-trained models on signal data  
+  2. Frequency-time domain analysis  
+  3. Image-transformed signal features using CNNs
 
 
 ---
